@@ -3,10 +3,10 @@
 Class Connection
 {
     public $connection = [
-        'server'   => 'localhost',
-        'user'     => 'root',
-        'password' => '',
-        'db'       => 'sleepycat',
+        'server'   => 'sql6.freemysqlhosting.net',
+        'user'     => 'sql6515721',
+        'password' => 'cfiBnVixit',
+        'db'       => 'sql6515721',
     ];
     
     public function connect()
